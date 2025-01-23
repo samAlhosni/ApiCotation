@@ -1,0 +1,6 @@
+@ApiGetCotaion_HostAddress = http://localhost:5265
+
+GET {{ApiGetCotaion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
